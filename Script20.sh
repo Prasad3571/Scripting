@@ -1,1 +1,2 @@
-echo "Prasad Shinde, Young Minds Institute, Satara"
+echo "Jay Babaji"
+echo "Sai Rahane"
