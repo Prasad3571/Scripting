@@ -1,1 +1,1 @@
-echo "Prasad Shinde, Young Minds Institute, Pune"
+echo "Prasad Shinde, Young Minds Institute, Satara"
